@@ -1,0 +1,34 @@
+---
+
+### 📁 `.gitignore`
+
+```gitignore
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Environment variables
+.env
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Logs & output
+*.log
+*.json
+*.txt
+
+# Streamlit config
+.streamlit/
+
+# IDEs
+.vscode/
+.idea/
